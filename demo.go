@@ -1,4 +1,4 @@
-package demo
+package up1module
 
 import "github.com/fatih/color"
 
